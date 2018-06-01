@@ -18,7 +18,7 @@ import java.util.Random;
  * </p>
  */
 public class RastgeleKisi {
-
+	// Üretilen Kişiler Metin belgesine Kayıt Edilip Üretilen Kişilerdeki TC Imei Numaraları Geçerlimi Diye Kontrol Edilip Ekrana Yazdırılmaktadır.
     private final Random rakamuret = new Random();
     private int SatirSayisi;
     private File file;
